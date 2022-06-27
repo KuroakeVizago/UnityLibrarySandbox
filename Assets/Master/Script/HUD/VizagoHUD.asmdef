@@ -1,14 +1,8 @@
 {
-    "name": "CoreSystem",
-    "rootNamespace": "Vizago",
+    "name": "VizagoHUD",
+    "rootNamespace": "Vizago.HUD",
     "references": [
-        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
-        "GUID:efa45043feb7e4147a305b73b5cea642",
-        "GUID:75469ad4d38634e559750d17036d5f7c",
-        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
-        "GUID:831409e8f9d13b5479a3baef9822ad34",
-        "GUID:08a110bd598f7604f9519c2d7e1fb3cc",
-        "GUID:54e8980dbad04824999aa7d2c08cf60d"
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229"
     ],
     "includePlatforms": [
         "Android",

@@ -7,7 +7,7 @@ namespace VizagoExtension.FunctionLibrary
 {
     public static class CoreFunctionLibrary
     {
-        private static System.Random _rng = new System.Random();
+        private static readonly System.Random _rng = new System.Random();
 
         public static void ShuffleArray<T>(this T []array)
         {
@@ -18,5 +18,6 @@ namespace VizagoExtension.FunctionLibrary
                 (array[n], array[k]) = (array[k], array[n]);
             }
         }
+
     }
 }
