@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine;
 using Vizago.HUD;
 
-namespace Vizago.SceneManager
+namespace Vizago.SceneManagement
 {
     public class SceneManager : MonoBehaviour
     {
