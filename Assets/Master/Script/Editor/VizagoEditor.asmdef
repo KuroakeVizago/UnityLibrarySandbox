@@ -1,0 +1,20 @@
+{
+    "name": "VizagoEditor",
+    "rootNamespace": "Vizago.Editor",
+    "references": [
+        "GUID:ee6df1f94af11084fa334dd04a89fc9f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        ""
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

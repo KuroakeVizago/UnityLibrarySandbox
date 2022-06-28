@@ -46,7 +46,7 @@ namespace Vizago.HUD
             };
 
             if (!m_loadingCanvas.worldCamera)
-                m_loadingCanvas.worldCamera = GameObject.FindWithTag("MainCamera").GetComponent<Camera>();
+                m_loadingCanvas.worldCamera = GameObject.FindWithTag("MainCamera").GetComponent<UnityEngine.Camera>();
         }
     }
 }
